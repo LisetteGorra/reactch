@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 //lesson 7
 
+=======
+//lesson 5
+>>>>>>> lesson-5
 
 
 import React from 'react';

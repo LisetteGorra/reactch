@@ -1,10 +1,14 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //lesson 7
 
 =======
 //lesson 5
 >>>>>>> lesson-5
 
+=======
+//lesson 8
+>>>>>>> lesson-8
 
 import React from 'react';
 import BookList from './components/BookList';
